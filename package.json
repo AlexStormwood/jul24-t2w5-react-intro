@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "rc-tooltip": "^6.4.0",
     "react": "^19.0.0",
+    "react-code-blocks": "^0.1.6",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
